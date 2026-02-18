@@ -1,7 +1,7 @@
 {
   "name": "GermaLingo",
   "short_name": "GermaLingo",
-  "start_url": "/",
+  "start_url": "https://www.germalingo.com/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0f9d58",
