@@ -1,0 +1,22 @@
+{
+  "name": "GermaLingo",
+  "short_name": "GermaLingo",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f9d58",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbl80VOyKo_wnOXqShntjh5ZbkWjcp5kipG3RYN9wqaFewMFxGg3HxHZ6kWrcH0_WqK63t2w52MB3LysF9ZIV_-ay4MXAtfS9t3CGsU4UUuinDMKrefrEFLuzmku_ucP4tf3zG64HHVmC03zIEIABbxFCBbW76bOROdm870-BTXUGwRXSkYBfzjQgm9RVM/s16000/New%20Project%20(3).png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbl80VOyKo_wnOXqShntjh5ZbkWjcp5kipG3RYN9wqaFewMFxGg3HxHZ6kWrcH0_WqK63t2w52MB3LysF9ZIV_-ay4MXAtfS9t3CGsU4UUuinDMKrefrEFLuzmku_ucP4tf3zG64HHVmC03zIEIABbxFCBbW76bOROdm870-BTXUGwRXSkYBfzjQgm9RVM/s16000/New%20Project%20(3).png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
